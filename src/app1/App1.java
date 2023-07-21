@@ -9,7 +9,7 @@ public class App1 {
     }
     public static void main(String[] args) {
         System.out.println("Hello World");
-        sub(5,7);
+        sub(100,50);
         New c1 = new New();
         c1.rev("Raja");
 
